@@ -4,6 +4,7 @@
 ## Table of Contents
    - [Features](#features)
    - [Requirements](#requirements)
+   - [Installation](#installation)
 
 ## Features
    - Support rewarded ads.
@@ -14,7 +15,10 @@
 
 ## Requirements
    - Godot Engine v4.0.3 +.
+   - Install Android Bulid Template.
    - Adivery app id.
    - Adivery ad placement id.
-   - Install Android Bulid Template.
+
+## Installation
+   1. first
    
