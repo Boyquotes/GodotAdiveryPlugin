@@ -49,7 +49,7 @@
       Global.adivery.show_app_open_ad([Placement ID])
   ```
 ## Support & Donate
-If you like this type plugins and it's useful, you can [donate](https://idpay.ir/gdpars).
+If you like this type plugins and it's useful, you can [Donate](https://idpay.ir/gdpars).
 
 ## Telegram
 For more plugins, updates, news, and tutorials join [Telegram](https://t.me/GDParsIR) channel.
