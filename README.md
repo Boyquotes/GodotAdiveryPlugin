@@ -9,7 +9,7 @@
 ## Features
    - Support rewarded ads.
    - Support interstitial ads.
-   - Support app oen ads.
+   - Support app open ads.
    - Can be used both as Node in editor or in code.
    - It is fully documented.
 
