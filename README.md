@@ -1,4 +1,4 @@
-<h1> ![Adivery](https://www.adivery.com/wp-content/uploads/2021/06/logo3.svg) GodotAdiveryPlugin </h1>
+# ![Adivery](https://www.adivery.com/wp-content/uploads/2021/06/logo3.svg) GodotAdiveryPlugin
  Adivery plugin for Godot Game Engine.
 
 ## Table of Contents
