@@ -20,6 +20,6 @@
    - Adivery ad placement id.
 
 ## Installation
-   1. Download latest version on [release](https://github.com/DexterFstone/GodotAdiveryPlugin/releases/tag/v1.0.0) page.
+   1. <b>Download</b> latest version on [release](https://github.com/DexterFstone/GodotAdiveryPlugin/releases/tag/v1.0.0) page.
    2. 
    
