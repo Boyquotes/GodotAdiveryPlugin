@@ -28,7 +28,9 @@
    6. To show ad you need to check enable box one of following ads in Inspector.
        - Rewarded AD
        - Interstitial AD
-       - App Open AD <br> ![check ads](images/image%2003.jpg)
+       - App Open AD
+
+![check ads](images/image%2003.jpg)
 
 
    7. Save scene Global and add it to autoload. <br> ![autoload](images/image%2004.jpg)
