@@ -35,9 +35,13 @@
    7. Save scene Global and add it to autoload. <br>![autoload](images/image%2004.jpg)
 
 ## Usage
-   1. Show rewarded ad or interstitial add
+   1. Show rewarded ad or interstitial ad
   ```gdscript
   func _on_button_pressed():
-    Global.adivery.show_ad([Placement ID])
+      Global.adivery.show_ad([Placement ID])
   ```
-   
+  2. Show app open ad
+  ```gdscript
+  func _on_button_pressed():
+      Globla.adivery.show_app_open_ad([Placement ID])
+  ```
