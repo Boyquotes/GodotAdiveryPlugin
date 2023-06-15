@@ -6,6 +6,7 @@
    - [Requirements](#requirements)
    - [Installation](#installation)
    - [Usage](#usage)
+   - [Support_&_Donate](#support--donate)
 
 ## Features
    - Support rewarded ads.
@@ -45,3 +46,4 @@
   func _on_button_pressed():
       Global.adivery.show_app_open_ad([Placement ID])
   ```
+## Support & Donate
