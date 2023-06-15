@@ -7,6 +7,7 @@
    - [Installation](#installation)
    - [Usage](#usage)
    - [Support & Donate](#support--donate)
+   - [Telegram]
    - [License](#license)
 
 ## Features
@@ -49,6 +50,9 @@
   ```
 ## Support & Donate
 If you like this type plugins and it's useful, you can [donate](https://idpay.ir/gdpars).
+
+## Telegram
+For more plugins, update, news, and tutorial join [Telegram](https://t.me/GDParsIR) channel.
 
 ## License
 [MIT License](https://opensource.org/license/mit/)
