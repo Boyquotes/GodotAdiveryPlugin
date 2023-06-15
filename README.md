@@ -5,6 +5,7 @@
    - [Features](#features)
    - [Requirements](#requirements)
    - [Installation](#installation)
+   - [Usage](#usage)
 
 ## Features
    - Support rewarded ads.
@@ -29,9 +30,14 @@
        - Rewarded AD
        - Interstitial AD
        - App Open AD
-
-   ![check ads](images/image%2003.jpg)
-
+    ![check ads](images/image%2003.jpg)
 
    7. Save scene Global and add it to autoload. <br>![autoload](images/image%2004.jpg)
+
+## Usage
+   1. Show rewarded ad or interstitial add
+  ```gdscript
+  func _on_button_pressed():
+    Global.adivery.show_ad([Placement ID])
+  ```
    
