@@ -48,7 +48,7 @@ extends Node
 ## Usage:
 ##     [codeblock]
 ##     func _on_button_pressed():
-##         adivery.show_app_open_ad.ad(adivery.app_open_placement_id)
+##         adivery.show_app_open_ad(adivery.app_open_placement_id)
 ##     [/codeblock][br]
 ##
 
