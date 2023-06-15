@@ -43,5 +43,5 @@
   2. Show app open ad
   ```gdscript
   func _on_button_pressed():
-      Globla.adivery.show_app_open_ad([Placement ID])
+      Global.adivery.show_app_open_ad([Placement ID])
   ```
