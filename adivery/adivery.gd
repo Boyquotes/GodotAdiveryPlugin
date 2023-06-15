@@ -1,6 +1,6 @@
 @icon("res://adivery/adivery.svg")
 class_name Adivery
-extends Node2D
+extends Node
 
 ## Adivery is a platform for displaying ads in mobile applications, which displays the best ads from thousands of active campaigns and uses smart optimization algorithms to maximize the efficiency of displaying ads in your application!
 ##
