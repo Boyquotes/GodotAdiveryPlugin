@@ -7,6 +7,7 @@
    - [Installation](#installation)
    - [Usage](#usage)
    - [Support & Donate](#support--donate)
+   - [License](#license)
 
 ## Features
    - Support rewarded ads.
@@ -47,3 +48,7 @@
       Global.adivery.show_app_open_ad([Placement ID])
   ```
 ## Support & Donate
+    If you like this type plugins and it's useful, you can [donate](https://idpay.ir/gdpars).
+
+## License
+    [MIT License](https://opensource.org/license/mit/)
