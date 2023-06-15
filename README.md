@@ -17,10 +17,10 @@
    - It is fully documented.
 
 ## Requirements
-   - Godot Engine v4.0.3 +.
-   - Install Android Bulid Template.
-   - Adivery app id.
-   - Adivery ad placement id.
+   - Godot Engine v4.0.3+
+   - Install Android Bulid Template
+   - Adivery app id
+   - Adivery ad placement id
 
 ## Installation
    1. Download latest version on [release](https://github.com/DexterFstone/GodotAdiveryPlugin/releases/tag/v1.0.0) page.
