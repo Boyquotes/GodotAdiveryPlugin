@@ -23,5 +23,6 @@
    1. Download latest version on [release](https://github.com/DexterFstone/GodotAdiveryPlugin/releases/tag/v1.0.0) page.
    2. Extract zip file.
    3. Copy the android and adivery folder to the project directory.
-   4. Create a new scene, add new Node and add Adivery Node as child of root. ![Add Adivery](images/image%2001.jpg)
+   4. Create a new scene, add new Node and add Adivery Node as child of root.
+![Add Adivery](images/image%2001.jpg)
    
