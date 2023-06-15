@@ -7,7 +7,7 @@
    - [Installation](#installation)
    - [Usage](#usage)
    - [Support & Donate](#support--donate)
-   - [Telegram]
+   - [Telegram](#telegram)
    - [License](#license)
 
 ## Features
