@@ -6,7 +6,7 @@
    - [Requirements](#requirements)
    - [Installation](#installation)
    - [Usage](#usage)
-   - [Support_&_Donate](#support--donate)
+   - [Support & Donate](#support--donate)
 
 ## Features
    - Support rewarded ads.
